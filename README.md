@@ -2,6 +2,22 @@
 
 Clonify is a web application built using React and Vite that allows users to explore and visualize data in an intuitive and user-friendly interface. It leverages Material UI, Recharts, and React Icons to provide a seamless and visually appealing experience.
 
+## Screenshots
+
+![Screenshot 1](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499400/Roado/Screenshot_2024-03-27_at_5.56.49_AM_p66vjg.png)
+![Screenshot 2](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499389/Roado/Screenshot_2024-03-27_at_5.57.00_AM_dz8ru5.png)
+![Screenshot 3](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499390/Roado/Screenshot_2024-03-27_at_5.58.30_AM_om2nd2.png)
+![Screenshot 4](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499389/Roado/Screenshot_2024-03-27_at_5.58.51_AM_y37hhw.png)
+![Screenshot 5](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499390/Roado/Screenshot_2024-03-27_at_5.59.07_AM_b6z3bc.png)
+
+## Demo
+
+Check out the live demo [here](https://res.cloudinary.com/dxaovcjmr/video/upload/v1711510752/Roado/RoaDo_icogcx.mkv).
+
+## Live
+
+Check out the live Application [here](https://clonify-haneef-syed.netlify.app).
+
 ## Features
 
 - **Data Visualization:** Utilizes Recharts to create stunning and interactive data visualizations.
@@ -36,15 +52,3 @@ Clonify relies on the following packages:
 - **Material UI:** React components for faster and easier web development.
 - **Recharts:** A composable charting library built on React components.
 - **React Icons:** Icons for React projects.
-
-## Screenshots
-
-![Screenshot 1](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499400/Roado/Screenshot_2024-03-27_at_5.56.49_AM_p66vjg.png)
-![Screenshot 2](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499389/Roado/Screenshot_2024-03-27_at_5.57.00_AM_dz8ru5.png)
-![Screenshot 3](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499390/Roado/Screenshot_2024-03-27_at_5.58.30_AM_om2nd2.png)
-![Screenshot 4](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499389/Roado/Screenshot_2024-03-27_at_5.58.51_AM_y37hhw.png)
-![Screenshot 5](https://res.cloudinary.com/dxaovcjmr/image/upload/v1711499390/Roado/Screenshot_2024-03-27_at_5.59.07_AM_b6z3bc.png)
-
-## Demo
-
-Check out the live demo [here](https://res.cloudinary.com/dxaovcjmr/video/upload/v1711510752/Roado/RoaDo_icogcx.mkv).
